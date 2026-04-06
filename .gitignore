@@ -1,0 +1,17 @@
+alert_email/node_modules
+alert_email/package-lock.json
+alert_email/package.json
+database/alerts.db
+static
+.vscode
+app/__pycache__
+app/routes/__pycache__
+app/services/__pycache__
+models\best1.pt
+models\efficientnet_fire_smoke.pth
+models\efficientnet_fire_smoke11.pth
+models\fire_smoke_model.pth
+models\fire_smoke_resnet50_final.pth
+models\fire_smoke_resnet501_final.pth
+models\FireGuard_Final502.pth
+models\resnet50_fire_normal.h5
