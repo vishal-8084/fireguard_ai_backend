@@ -6,7 +6,7 @@ from ultralytics import YOLO
 # =========================================
 # CONFIG
 # =========================================
-YOLO_MODEL_PATH = "models/yolo11-d-fire-dataset.pt"
+YOLO_MODEL_PATH = "models/best_100epoch.pt"
 EFFNET_PATH = "models/efficientnet_fire_smoke_v2.pth"
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
